@@ -1,0 +1,56 @@
+nav {
+  display: flex;
+  margin: 0;
+}
+h1 {
+  color: white;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+nav h1 {
+  margin-left: 10px;
+}
+
+header {
+  font-size: 0.7em;
+  height: 10vh;
+  /* padding: 10px; */
+  background: #134e5e; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #0b153c,
+    #96f90c
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #0b153c,
+    #96f90c
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  border-radius: 2px;
+}
+
+/* iPhone X
+@media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
+
+
+
+} */
+
+/* //iPhone X Max */
+@media only screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) {
+  header {
+    width: 100vw;
+  }
+}
+/* 
+
+iPad 
+/* 
+@media (min-width: 768px) and (max-width: 1024px) {
+
+} */
+
+/* //iPhone Pad Pro
+@media (min-width: 1024px) and (max-width: 1366px) {} */

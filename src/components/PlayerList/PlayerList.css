@@ -1,0 +1,46 @@
+ul {
+  margin: 0;
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 5px;
+  font-weight: 800;
+  color: #0b153c;
+}
+
+.column {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.player {
+  margin: 0px 5px;
+  text-decoration: underline;
+  font-size: 1.5em;
+}
+.team {
+  color: rgb(162, 209, 54);
+}
+
+@media only screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) {
+  .column {
+    grid-template-columns: 1fr;
+  }
+
+  ul {
+    margin: 0;
+  }
+}
+/* 
+
+iPad 
+/* 
+@media (min-width: 768px) and (max-width: 1024px) {
+
+} */
+
+/* //iPhone Pad Pro
+@media (min-width: 1024px) and (max-width: 1366px) {} */
