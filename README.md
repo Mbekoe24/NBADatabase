@@ -23,19 +23,15 @@ This is a NBA Player Database, which includes player list, stats and bio. This p
 
 - I will have my js logic configured and for my alphabetizing my list for my Player List page.
 
-- Have some storybook stories/ testing will be written out.
+- I will use 3 storybook components/ 6 test using Jest.
 
-- All of my media queries will be set/ layouts for Desktop, iPhone X, iPad, and iPad Pro fully set.
+- I will have all of my media queries styled for Desktop, iPhone X Max, iPad, and iPad Pro.
 
-<!-- - My plan is to have event listeners built-in for all my storybook buttons on page. -->
-
-- My website will be hosted on surge upon completion of MVP.
+- My website will be hosted on Netlify upon completion of MVP.
 
 # Post-MVP:
 
-- I will also have a UX student examine/Software Engineer critique my app, to see how I can improve the users experience.
-
-- Another thing I will like to include is some Bootstrap to help styling.
+- Have a UX/Software Engineer critique my app, to see how I can improve the users experience.
 
 - References for each source will be included.
 
