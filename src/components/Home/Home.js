@@ -28,8 +28,6 @@ function Home() {
       </div>
     </div>
   );
-
-  // <iframe src="https://giphy.com/embed/M96bl1lwzuNfIkDwo2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/49ers-25-richard-sherman-sherm-M96bl1lwzuNfIkDwo2">via GIPHY</a></p>
 }
 
 export default Home;

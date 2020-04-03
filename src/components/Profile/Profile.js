@@ -17,14 +17,11 @@ class Profile extends Component {
       //response 1 is the img
       `https://nba-players.herokuapp.com/players/${this.props.match.params.lastName}/${this.props.match.params.firstName}`
     );
-    console.log(response1);
 
     const response2 = await axios(
       // response 2 is the stats
       `https://nba-players.herokuapp.com/players-stats/${this.props.match.params.lastName}/${this.props.match.params.firstName}`
     );
-
-    console.log(response2.data);
 
     this.setState({
       playerImg: response1.config.url, //image
@@ -32,16 +29,12 @@ class Profile extends Component {
     });
   };
 
-  // TeamLogoURL;
+  // From JSON Data TeamLogoURL;
 
   setBackground = teamLogo => {
     return teamLogo.TeamLogoURL && this.state.stats
       ? teamLogo.TeamCode.toLowerCase().includes(this.state.stats.team_acronym)
       : true;
-    // this.state.stats.team_acronym.includes(this.props.team)
-    // this.props.teamLogo.find(logo => {
-    //   // return this.state.stats.team_acronym === logo.TeamCode.toLowerCase();
-    // });
   };
 
   render() {

@@ -20,6 +20,4 @@ function Header() {
   );
 }
 
-//  <Route exact path="/" render={() => <Heroes heroes={this.state.heroes} />} />;
-
 export default Header;

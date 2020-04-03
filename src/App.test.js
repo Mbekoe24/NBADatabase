@@ -36,21 +36,4 @@ describe("App component", () => {
   it("should have a state attribute called team initialized to empty array", () => {
     expect(component.state("team")).toEqual([]);
   });
-  //TEST 7
-
-  //TEST 8
-
-  //TEST 9
-
-  //TEST 10
-
-  //TEST 11
-
-  //TEST 12
-
-  //TEST 13
-
-  //TEST 14
-
-  //TEST 15
 });

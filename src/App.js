@@ -272,7 +272,6 @@ class App extends Component {
     const response = await axios(
       " https://nba-players.herokuapp.com/players-stats/"
     );
-    console.log(response.data);
     this.setState({
       players: response.data
     });
