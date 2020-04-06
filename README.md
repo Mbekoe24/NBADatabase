@@ -1,6 +1,6 @@
 # Title:
 
-[NBA Player Database]("https://nbadatabase.netlify.com/")
+[NBA Player Database](https://nbadatabase.netlify.com/)
 
 # Project Description:
 
