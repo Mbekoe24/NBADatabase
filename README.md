@@ -1,13 +1,10 @@
 # Title:
 
-NBA PLAYER DATABASE
-
-<!--
-[NBA: Player Database](website url no quotes) -->
+[NBA Player Database]("https://nbadatabase.netlify.com/")
 
 # Project Description:
 
-This is a NBA Player Database, which includes player list, stats and bio. This project was built using JavaScript, React.js, JSX, Bootstrap, and CSS. I will be using the NBA's API data to display brief player bio's/stats on the screen. My goal is to make this database feel as dynamic and authenic as possible. To help conceptualize my project, I will be using React Router to help navigate back and forth through my pages, CSS grid, and flex for the structoring of each component, Storybook for the button I will be using throughout my site, and some JavaScripit to help organize my data. The user must get at least 8 answers correct, to be crowned the newest Pokemon Master.
+This is a NBA Player Database, which includes player list, stats and bio. This project was built using JavaScript, React.js, JSX, Storybook and CSS. I will be using the NBA's API data to display brief player bio's/stats on the screen. My goal is to make this database feel as dynamic and authenic as possible. To help conceptualize my project, I will be using React Router to help navigate back and forth through my pages, CSS grid, and flex for the structoring of each component, Storybook for the button I will be using throughout my site, and some JavaScripit to help organize my data. The user must get at least 8 answers correct, to be crowned the newest Pokemon Master.
 
 # API:
 
@@ -33,7 +30,7 @@ This is a NBA Player Database, which includes player list, stats and bio. This p
 
 - Have a UX/Software Engineer critique my app, to see how I can improve the users experience.
 
-- References for each source will be included.
+- Add Team Standings, League Leaders, and Teams with their entire roster listed by pictures with their names.
 
 - In additon, I will be be including a favicon in place this will bring that more organic website feel.
 
