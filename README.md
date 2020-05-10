@@ -4,13 +4,13 @@
 
 # Project Description:
 
-This is a NBA Player Database, which includes player list, stats and bio. This project was built using JavaScript, React.js, JSX, Storybook and CSS. I will be using the NBA's API data to display brief player bio's/stats on the screen. My goal is to make this database feel as dynamic and authenic as possible. To help conceptualize my project, I will be using React Router to help navigate back and forth through my pages, CSS grid, and flex for the structoring of each component, Storybook for the button I will be using throughout my site, and some JavaScripit to help organize my data. The user must get at least 8 answers correct, to be crowned the newest Pokemon Master.
+This is a NBA Player Database, which includes player list, stats and bio. This project was built using JavaScript, React.js, JSX, Storybook and CSS. I will be using the NBA's API data to display brief player bio's/stats on the screen. My goal is to make this database feel as dynamic and authenic as possible. To help conceptualize my project, I will be using React Router to help navigate back and forth through my pages, CSS grid, and flex for the structoring of each component, Storybook for the button I will be using throughout my site, and some JavaScripit to help organize my data.
 
 # API:
 
 - I will be using this NBA API (https://nba-players.herokuapp.com/)
 
-<!-- // JSON DATA: https://gist.github.com/jaeyson/60fe551b9ffb82da517bc50893b61da7 -->
+- IMAGE & TEAM DATA: (https://gist.github.com/jaeyson/60fe551b9ffb82da517bc50893b61da7)
 
 # MVP:
 
